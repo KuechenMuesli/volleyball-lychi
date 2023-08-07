@@ -1,0 +1,23 @@
+.login-form{
+  margin: auto;
+  margin-top:20px;
+  background-color: #cec9c2;
+  height: fit-content;
+  width: fit-content;
+  padding: 15px;
+  border-radius: 20px;
+
+  font-family: "Courier New";
+}
+
+.label{
+  float: right;
+}
+
+.button{
+  background-color: antiquewhite;
+}
+
+#login-button{
+  float: right;
+}
